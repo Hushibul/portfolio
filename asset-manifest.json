@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6bae9f1f.css",
+    "main.js": "/portfolio/static/js/main.26086222.js",
+    "static/media/about.jpg": "/portfolio/static/media/about.fe092486d7f6799ace80.jpg",
+    "static/media/hairstyles.jpg": "/portfolio/static/media/hairstyles.08dcc1c7c147e13bb3f5.jpg",
+    "static/media/travel-advisor.jpg": "/portfolio/static/media/travel-advisor.96ce5939c0ed4cf70fcf.jpg",
+    "static/media/gym.jpg": "/portfolio/static/media/gym.6122bdcbf5c67194c447.jpg",
+    "static/media/dots.svg": "/portfolio/static/media/dots.9978678b9b3cb292d679.svg",
+    "static/media/avatar.jpeg": "/portfolio/static/media/avatar.5dae72881d488fdaac7f.jpeg",
+    "static/media/port6.jpg": "/portfolio/static/media/port6.ccfe3b5b573464b76352.jpg",
+    "static/media/port3.jpg": "/portfolio/static/media/port3.7f41458f33c5874f80a2.jpg",
+    "static/media/port5.jpg": "/portfolio/static/media/port5.1330f6cdb334b86c2d49.jpg",
+    "static/media/phone.svg": "/portfolio/static/media/phone.ef86e22a2d5b97331bb60e1dcc6bc76d.svg",
+    "static/media/location.svg": "/portfolio/static/media/location.5cd6776e27db7845a2827189649d9dc4.svg",
+    "static/media/emailme.svg": "/portfolio/static/media/emailme.a60657ebd5cb15ed089713db525cda0d.svg",
+    "index.html": "/portfolio/index.html",
+    "main.6bae9f1f.css.map": "/portfolio/static/css/main.6bae9f1f.css.map",
+    "main.26086222.js.map": "/portfolio/static/js/main.26086222.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bae9f1f.css",
+    "static/js/main.26086222.js"
+  ]
+}
