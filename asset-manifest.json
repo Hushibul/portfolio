@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6bae9f1f.css",
-    "main.js": "/portfolio/static/js/main.26086222.js",
+    "main.css": "/portfolio/static/css/main.0d2569f5.css",
+    "main.js": "/portfolio/static/js/main.0e11081d.js",
     "static/media/about.jpg": "/portfolio/static/media/about.fe092486d7f6799ace80.jpg",
     "static/media/hairstyles.jpg": "/portfolio/static/media/hairstyles.08dcc1c7c147e13bb3f5.jpg",
     "static/media/travel-advisor.jpg": "/portfolio/static/media/travel-advisor.96ce5939c0ed4cf70fcf.jpg",
     "static/media/gym.jpg": "/portfolio/static/media/gym.6122bdcbf5c67194c447.jpg",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.51912d187e9edb403ea6.pdf",
     "static/media/dots.svg": "/portfolio/static/media/dots.9978678b9b3cb292d679.svg",
     "static/media/avatar.jpeg": "/portfolio/static/media/avatar.5dae72881d488fdaac7f.jpeg",
     "static/media/port6.jpg": "/portfolio/static/media/port6.ccfe3b5b573464b76352.jpg",
@@ -15,11 +16,11 @@
     "static/media/location.svg": "/portfolio/static/media/location.5cd6776e27db7845a2827189649d9dc4.svg",
     "static/media/emailme.svg": "/portfolio/static/media/emailme.a60657ebd5cb15ed089713db525cda0d.svg",
     "index.html": "/portfolio/index.html",
-    "main.6bae9f1f.css.map": "/portfolio/static/css/main.6bae9f1f.css.map",
-    "main.26086222.js.map": "/portfolio/static/js/main.26086222.js.map"
+    "main.0d2569f5.css.map": "/portfolio/static/css/main.0d2569f5.css.map",
+    "main.0e11081d.js.map": "/portfolio/static/js/main.0e11081d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bae9f1f.css",
-    "static/js/main.26086222.js"
+    "static/css/main.0d2569f5.css",
+    "static/js/main.0e11081d.js"
   ]
 }
