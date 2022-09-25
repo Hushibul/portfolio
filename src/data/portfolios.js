@@ -1,10 +1,13 @@
-import port4 from "../img/portImages/port3.jpg";
 import port6 from "../img/portImages/port5.jpg";
 import port7 from "../img/portImages/port6.jpg";
 
 import hairstyles from "../img/logos/hairstyles.jpg";
 import travelAdviosr from "../img/logos/travel-advisor.jpg";
 import gym from "../img/logos/gym.jpg";
+import eduford from "../img/logos/university.jpg";
+import mi from "../img/logos/phones.jpg";
+import disney from "../img/logos/disney.jpg";
+import ai from "../img/logos/ai.jpg";
 const portfolios = [
   {
     id: 1,
@@ -43,7 +46,7 @@ const portfolios = [
     link2: "www.github.com",
     icon1: "P",
     icon2: "G",
-    image: port4,
+    image: eduford,
     title: "Eduford",
   },
   {
@@ -73,7 +76,7 @@ const portfolios = [
     link2: "https://github.com/Hushibul/mi-clone/",
     icon1: "P",
     icon2: "G",
-    image: port4,
+    image: mi,
     title: "MI Clone",
   },
   {
@@ -83,8 +86,19 @@ const portfolios = [
     link2: "https://github.com/Hushibul/gpt-model",
     icon1: "P",
     icon2: "G",
-    image: port4,
-    title: "Vanilla Javascript Website",
+    image: ai,
+    title: "GPT Model",
+  },
+  {
+    id: 9,
+    category: "React Js",
+    link1:
+      "https://63305b80299c481074ae76a4--disney-clone-hushibul.netlify.app/",
+    link2: "https://github.com/Hushibul/disney_clone",
+    icon1: "P",
+    icon2: "G",
+    image: disney,
+    title: "Disney Clone",
   },
 ];
 
